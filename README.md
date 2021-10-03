@@ -1,2 +1,2 @@
 # calculator
-calculator add troleo
+calculator add troleo presto
